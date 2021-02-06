@@ -138,6 +138,7 @@ COUNTRIES = {
     'ps': 'Palestine, State of',
     'pt': 'Portugal',
     'py': 'Paraguay',
+    'qa': 'Qatar',
     're': 'Reunion',
     'ro': 'Romania',
     'rs': 'Serbia',
@@ -146,6 +147,7 @@ COUNTRIES = {
     'sa': 'Saudi Arabia',
     'sc': 'Seychelles',
     'sd': 'Sudan',
+    'ss': 'South Sudan',
     'se': 'Sweden',
     'sg': 'Singapore',
     'sh': 'Saint Helena, Ascension and Tristan da Cunha',
@@ -202,12 +204,12 @@ ASIA = [
     'tl', 'ge', 'in', 'id', 'ir', 'iq', 'il', 'jp', 'jo', 'kz', 'kw', 'kg',
     'la', 'lb', 'my', 'mv', 'mn', 'np', 'kp', 'om', 'pk', 'ps', 'ph', 'ru',
     'sa', 'sg', 'lk', 'kr', 'sy', 'tw', 'tj', 'th', 'tr', 'tm', 'ae', 'uz',
-    'vn', 'ye', 'mo', 'hk'
+    'vn', 'ye', 'mo', 'hk', 'qa'
 ]
 
 EUROPE = [
     'ad', 'al', 'am', 'at', 'az', 'be', 'by', 'ba', 'bg', 'hr', 'cy', 'cz',
-    'dk', 'ee', 'fi', 'fr', 'ge', 'de', 'gr', 'hu', 'is', 'ie', 'it', 'kz',
+    'dk', 'ee', 'fi', 'fr', 'ge', 'de', 'gr', 'hu', 'is', 'ie', 'it',
     'lv', 'li', 'lt', 'lu', 'mk', 'mt', 'md', 'mc', 'me', 'nl', 'no', 'pl',
     'pt', 'ro', 'ru', 'sm', 'rs', 'sk', 'si', 'es', 'se', 'ch', 'tr', 'ua',
     'gb', 'va'
@@ -218,7 +220,7 @@ AFRICA = [
     'ke', 'mg', 'mw', 'mu', 'yt', 'mz', 're', 'rw', 'sc', 'tz', 'ug', 'zm',
     'zw', 'ao', 'cm', 'cf', 'td', 'cd', 'cg', 'gq', 'ga', 'st', 'bw', 'ls',
     'na', 'za', 'sz', 'bj', 'bf', 'cv', 'gm', 'gh', 'gn', 'gw', 'ci', 'lr',
-    'ml', 'mr', 'ne', 'ng', 'sh', 'sn', 'sl', 'tg'
+    'ml', 'mr', 'ne', 'ng', 'sh', 'sn', 'sl', 'tg', 'ss'
 ]
 
 NORTH_AMERICA = [
